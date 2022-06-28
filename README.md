@@ -1,15 +1,16 @@
-# CompanyWebsite
+# My Company's Website
+
 ## Description
 
-This website provides a basic understanding of what a company can provide to its customers. This website was made using HTML and CSS. Some challenges faced were regarding spacing of certain HTML elements using the CSS.
+This website provides a basic understanding of what a company can provide to its customers and will allow my company to be seen on a global platform using Search Engine Optimization (SEO).  This website was made using basic HTML and CSS.  Some challenges faced were regarding the spacing of certain HTML elements using the CSS.
 
 ## Installation
 
-To use this website, one click on the following live link: 
+To view this website, one can click on the following link: 
 
 ## Usage
 
-One can use this website to gain a better understanding of the company.
+One can use this website to gain a better understanding of my company.
 
 ## Credits
 
