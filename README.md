@@ -6,7 +6,7 @@ This website provides a basic understanding of what a company can provide to its
 
 ## Installation
 
-To view this website, one can click on the following link: 
+To view this website, one can click on the following link: https://ruchivaishnav27.github.io/CompanyWebsite/
 
 ## Usage
 
